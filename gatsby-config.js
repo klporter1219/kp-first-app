@@ -4,5 +4,5 @@ module.exports = {
     title: "First App",
   },
   plugins: [],
-  pathPrefix: '/~klsipes/N322/kp-first-app'
+  pathPrefix: '/~klsipes/N322/kp-first-app-2'
 };
